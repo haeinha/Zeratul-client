@@ -4,13 +4,16 @@ author: haeinha
 
 Node : 16.18.0
 
+
 1. 프로젝트 처음 시작 시
+```
 1-1. NVM 설치
 1-2. Node 16.18.0 설치 (2022년 10월 20일 기준 Node 홈페이지 LTS 버전)
 1-3. nvm alias default 16.18.0 (기본 실행 버전 맞추기 위함)
 1-4. yarn 혹은 npm i 로 패키지 설치
 1-5. yarn build  혹은 npm run build 로 next js build
 1-6. yarn start 혹은  npm run start로 실행
+```
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
